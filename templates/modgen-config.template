@@ -1,0 +1,13 @@
+{
+    "variables" :
+    {
+        "USER-NAME" : "Blue Zephyr",
+        "EMAIL": "blue.zephyr.git@gmail.com",
+        "YEAR" : "2018"
+    },
+
+    "templates":
+    {
+        "c-module" : "cmodule.template"
+    }
+}
